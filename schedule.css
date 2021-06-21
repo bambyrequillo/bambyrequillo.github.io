@@ -1,0 +1,49 @@
+table {
+    border:6px solid; 
+border-color: black; 
+background-color: pink; width: 
+}
+
+th,td.time{
+    background-color: yellow;
+}
+
+td {
+    text-align:center; padding:10px;
+}
+
+td.itec50 {
+    background-color: green;
+}
+
+td.gned06 {
+    background-color: blue;
+}
+
+td.gned03 {
+    background-color: red;
+}
+
+td.fitt2 {
+    background-color: lightblue;
+}
+
+td.gned12 {
+    background-color: orange;
+}
+
+td.dcit23 {
+    background-color: 5d00ff;
+}
+
+td.dcit21 {
+    background-color: ff00b3;
+}
+
+td.dcit22 {
+    background-color: 039eff;
+}
+
+td.gned01 {
+    background-color: 22ff00;
+}
